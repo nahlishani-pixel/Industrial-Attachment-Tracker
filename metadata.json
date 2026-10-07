@@ -1,0 +1,6 @@
+{
+  "name": "JKUAT Software Dev Attachment Tracker",
+  "description": "Progress tracker and 30-week roadmap preparation dashboard for BSc Business Computing students preparing for Software Development Industrial Attachment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
